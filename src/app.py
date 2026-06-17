@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Basketball Team": {
+        "description": "Competitive basketball league and practice",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["james@mergington.edu"]
+    },
+    "Tennis Club": {
+        "description": "Learn and compete in tennis tournaments",
+        "schedule": "Saturdays, 9:00 AM - 10:30 AM",
+        "max_participants": 10,
+        "participants": ["sarah@mergington.edu"]
+    },
+    "Art Studio": {
+        "description": "Explore painting, drawing, and mixed media techniques",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 18,
+        "participants": ["grace@mergington.edu", "alex@mergington.edu"]
+    },
+    "Drama Club": {
+        "description": "Participate in theatrical productions and acting workshops",
+        "schedule": "Tuesdays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["lucas@mergington.edu"]
+    },
+    "Debate Team": {
+        "description": "Develop argumentation and public speaking skills",
+        "schedule": "Mondays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["marcus@mergington.edu", "rachel@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Conduct experiments and explore STEM concepts",
+        "schedule": "Wednesdays and Saturdays, 3:30 PM - 4:30 PM",
+        "max_participants": 14,
+        "participants": ["nathan@mergington.edu"]
     }
 }
 
